@@ -1,2 +1,1 @@
-# globalresources
-Requests are sent here to receive the newest version infomation and configuration files
+# Version infomation and configuration files are stored here
