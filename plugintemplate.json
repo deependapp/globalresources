@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Plugin name",
+		"description": "Remember to rename this file to 'info' for the client to detect it"
 		"version": 0.1,
 		"enabled": true
 	}
